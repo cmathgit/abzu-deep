@@ -1,0 +1,13 @@
+.env
+venv
+__pycache__/
+*.pyc
+logs/
+.vscode/
+*.jsonl
+settings.json
+bot-tools/__pycache__/
+bot-tools/Bible-kjv-abbrev/
+Bible-kjv-abbrev/
+__init__.py
+bot-tools/__init__.py
