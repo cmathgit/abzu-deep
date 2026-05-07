@@ -1,3 +1,5 @@
+![Abzu Deep Banner](assets/banner.jpeg)
+
 # 🕊️ Abzu Deep — Compound-Model Theological Assistant
 
 > *"So then faith cometh by hearing, and hearing by the word of God."*
@@ -22,6 +24,8 @@
 11. [Contributing](#contributing)
 
 ---
+
+![Abzu Deep Banner](assets/profile.jpeg)
 
 ## Overview
 
